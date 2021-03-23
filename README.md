@@ -1,2 +1,2 @@
 # k8s
-My explorations with K8s and its related technologies
+My explorations with Kubernetes and its related technologies
